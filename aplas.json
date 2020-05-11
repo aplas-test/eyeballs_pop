@@ -9,14 +9,13 @@
       "description": "Versatile asymmetric neural-net",
       "categoryId": "accounting",
       "applicationSize": "medium",
-      "status": "standard",
       "licensing_cost": "146",
       "vendor_phone": "+55 182 240 3194",
       "status_color": "#00FF00",
       "department": "Product Management",
       "hostedtype": "OnPremise",
       "deployment_date": "13/2/15",
-      "investment_number": "220",
+      "investment_number": 220,
       "type": "InHouseDev",
       "sme_email": "Karil.Goldston@memento.net.au",
       "investment_24m": "409",
@@ -25,11 +24,11 @@
       "support_cost": "43",
       "vendor_contact_name": "Harland Howatt",
       "end_of_life": "3/12/19",
-      "months_to_renew_support": "19",
+      "months_to_renew_support": 19,
       "end_of_maintenance": "10/8/17",
       "integrations": [
         {
-          "assetId": "int-431",
+          "id": "int-431",
           "name": "INT-431",
           "shortName": null,
           "version": "1.7.7",
@@ -37,7 +36,6 @@
           "payload": "Allocation Distribution",
           "targetApplicationId": "herding_sync-up",
           "categoryId": "email",
-          "status": "standard",
           "sme_name": "Maridel Finlan",
           "decom_date": "29/1/13",
           "status_color": "#FF0000",
@@ -51,7 +49,7 @@
           "golive_date": "29/4/10"
         },
         {
-          "assetId": "int-122",
+          "id": "int-122",
           "name": "INT-122",
           "shortName": null,
           "version": "0.7.7",
@@ -59,7 +57,6 @@
           "payload": "Document - RCTI PDF",
           "targetApplicationId": "herding_sync-up",
           "categoryId": "email",
-          "status": "standard",
           "sme_name": "Gerri Gwyllt",
           "status_color": "#00FF00",
           "department": "App Control",
@@ -72,7 +69,7 @@
           "golive_date": "7/4/16"
         },
         {
-          "assetId": "int-018",
+          "id": "int-018",
           "name": "INT-018",
           "shortName": null,
           "version": "5.8.1",
@@ -80,7 +77,6 @@
           "payload": "Inventory (Like Stores)",
           "targetApplicationId": "cookley",
           "categoryId": "mft",
-          "status": "standard",
           "sme_name": "Muhammad Cammack",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -93,7 +89,7 @@
           "golive_date": "19/5/05"
         },
         {
-          "assetId": "int-209",
+          "id": "int-209",
           "name": "INT-209",
           "shortName": null,
           "version": "7",
@@ -101,7 +97,6 @@
           "payload": "cNcStatusUpdate",
           "targetApplicationId": "cookley",
           "categoryId": "mft",
-          "status": "standard",
           "sme_name": "Myranda McChruiter",
           "status_color": "#FFFF22",
           "department": "Integration",
@@ -114,7 +109,7 @@
           "golive_date": "22/5/17"
         },
         {
-          "assetId": "int-274",
+          "id": "int-274",
           "name": "INT-274",
           "shortName": null,
           "version": "5.0.4",
@@ -122,7 +117,6 @@
           "payload": "Promotion - Dept Discount",
           "targetApplicationId": "cookley",
           "categoryId": "etl",
-          "status": "standard",
           "sme_name": "Preston Shortland",
           "status_color": "#00FF00",
           "department": "Datawarehouse",
@@ -135,7 +129,7 @@
           "golive_date": "20/11/09"
         },
         {
-          "assetId": "int-048",
+          "id": "int-048",
           "name": "INT-048",
           "shortName": null,
           "version": "8.8.8",
@@ -143,7 +137,6 @@
           "payload": "Debtor - Unclaimed RST Layby",
           "targetApplicationId": "cookley",
           "categoryId": "cron",
-          "status": "standard",
           "sme_name": "Maridel Finlan",
           "decom_date": "28/2/16",
           "status_color": "#FF0000",
@@ -157,7 +150,7 @@
           "golive_date": "15/1/06"
         },
         {
-          "assetId": "int-182",
+          "id": "int-182",
           "name": "INT-182",
           "shortName": null,
           "version": "3.6",
@@ -165,7 +158,6 @@
           "payload": "Distributed Method Extract Vendor Extract",
           "targetApplicationId": "cookley",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gilberto Thompkins",
           "status_color": "#00FF00",
           "department": "Integration",
